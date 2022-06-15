@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus92as&show_icons=true&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus92as&layout=compact&theme=midnight-purple)](https://github.com/matheus92as/github-readme-stats)
 -->
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-de-souza/)
+<a href="https://www.linkedin.com/in/matheus-de-souza/" target = "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-de-souza/) -->
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:matheus92as@gmail.com)
