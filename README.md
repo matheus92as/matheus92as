@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ##
 
 <div >
-  <img height= "180em" width= "500em" src="https://github-readme-stats.vercel.app/api?username=matheus92as&show_icons=true&theme=midnight-purple"/>
-  <img height= "180em" width= "500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus92as&layout=compact&theme=midnight-purple"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=matheus92as&show_icons=true&theme=midnight-purple"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus92as&layout=compact&theme=midnight-purple"/>
 </div>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus92as&show_icons=true&theme=midnight-purple) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus92as&layout=compact&theme=midnight-purple)](https://github.com/matheus92as/github-readme-stats)
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-de-souza/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:matheus92as@gmail.com)
 
-<!-- ![Snake animation](https://github.com/matheus92as/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/matheus92as/matheus92as/blob/output/github-contribution-grid-snake.svg)
