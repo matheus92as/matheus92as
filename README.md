@@ -41,4 +41,9 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-de-souza/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:matheus92as@gmail.com)
 
+<div>
+     <p align="center">Number of visitors</p> 
+     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{matheus92as}/count.svg"/></p> 
+</div>
+
  ![Snake animation](https://github.com/matheus92as/matheus92as/blob/output/github-contribution-grid-snake.svg)
