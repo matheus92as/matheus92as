@@ -1,4 +1,9 @@
-### Hi, I'm Matheus 👋
+### Oi, eu sou o Matheus 👋
+
+  Sou desenvolvedor Front-end e estou em transição de carreira, venho da área da técnologia, mas a parte física, estudei e trabalhei alguns anos com eletrônica, onde tive meu primeiro contato com programação, usando C++ há mais de 10 anos. No inicio de 2022 realizei o Bootcamp da Labenu, um curso com foco em desenvolvimento Web Fullstack, então tenho boas noções sobre Back-end apesar de ter mais afinidade com o Front-end, este curso teve mais de 1000 horas e pude realizar muito projetos relevantes, com muitas pessoas interessantes, eles estão expostos aqui no meu perfil. A maior parte deles faz uso de Reactjs, Javascript ou Typescript como base.
+  Atualmente tenho tido contato com outras técnologias para me aprofundar, como Next, React Native, Tailwind, Prisma, Expo e outras, enquanto vou refatorando códigos antigos e revisando possiveis updates.
+  
+  Estou em busca de oportunidade relacionadas a Front Web atualmente, caso goste de algum projeto meu e queira me indicar para alguma vaga, meu email de contato é [matheus92as@gmail.com](mailto:matheus92as@gmail.com)
 
 <!--
 **matheus92as/matheus92as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
