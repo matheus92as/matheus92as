@@ -1,9 +1,9 @@
 ### Oi, eu sou o Matheus 👋
 
-  Sou desenvolvedor Front-end e estou em transição de carreira, venho da área da técnologia, mas a parte física, estudei e trabalhei alguns anos com eletrônica, onde tive meu primeiro contato com programação, usando C++ há mais de 10 anos. No inicio de 2022 realizei o Bootcamp da Labenu, um curso com foco em desenvolvimento Web Fullstack, então tenho boas noções sobre Back-end apesar de ter mais afinidade com o Front-end. Neste curso pude realizar muito projetos relevantes, com muitas pessoas interessantes, eles estão expostos aqui no meu perfil. A maior parte deles faz uso de Reactjs, Javascript ou Typescript como base.
-  Meu objetivo é me aperfeiçoar no Front-end mas também praticar meus conhecimentos em Back para me tornar um desenvolvedor completo. Atualmente tenho tido contato com outras técnologias como Next, React Native, Tailwind, Prisma, Expo e outras, enquanto vou refatorando códigos antigos e revisando possiveis updates.
+  Sou desenvolvedor Front-end, experiente com React.js e Next.js, também tenho pratica em criação de APIs utilizando Node.js e Express ou Prisma como base, junto de bancos de dados relacionais como MySQL e PostgreSQL. Estou em transição de carreira, venho da área da técnologia, mas a parte física, estudei e trabalhei alguns anos com eletrônica, onde tive meu primeiro contato com programação, usando C++ há mais de 10 anos.
+  Sou muito comunicativo e gosto de entender todas as etapas do projeto, mesmo não sendo minha resposabilidade pois gosto de ajudar os outros sempre que possivel. Meu objetivo é me aperfeiçoar tanto no Front-end quanto no Back para me tornar um desenvolvedor completo, sempre que posso estou praticando alguma nova tecnologia.
   
-  Estou em busca de oportunidade relacionadas a Front Web atualmente, caso goste de algum projeto meu e queira me indicar para alguma vaga, meu email de contato é [matheus92as@gmail.com](mailto:matheus92as@gmail.com)
+  Estou em busca de oportunidade relacionadas a Desenvolvimento Web atualmente, estágios ou efetivo Júnior, caso goste de algum projeto meu e queira me indicar para alguma vaga, meu email de contato é [matheus92as@gmail.com](mailto:matheus92as@gmail.com)
 
 <!--
 **matheus92as/matheus92as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
