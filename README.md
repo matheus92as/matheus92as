@@ -1,6 +1,6 @@
 ### Oi, eu sou o Matheus 👋
 
-  Sou desenvolvedor Front-end, experiente com React.js e Next.js, também tenho pratica em criação de APIs utilizando Node.js e Express ou Prisma como base, junto de bancos de dados relacionais como MySQL e PostgreSQL. Estou em transição de carreira, venho da área da técnologia, mas a parte física, estudei e trabalhei alguns anos com eletrônica, onde tive meu primeiro contato com programação, usando C++ há mais de 10 anos.
+  Sou desenvolvedor Front-end, experiente com React.js e Next.js, também tenho pratica em criação de APIs utilizando Node.js e Express ou Prisma como base, junto de bancos de dados relacionais como MySQL e PostgreSQL. Venho da área da técnologia, mas a parte física, estudei e trabalhei alguns anos com eletrônica, onde tive meu primeiro contato com programação, usando C++ há mais de 10 anos.
   Sou muito comunicativo e gosto de entender todas as etapas do projeto, mesmo não sendo minha resposabilidade pois gosto de ajudar os outros sempre que possivel. Meu objetivo é me aperfeiçoar tanto no Front-end quanto no Back para me tornar um desenvolvedor completo, sempre que posso estou praticando alguma nova tecnologia.
   
   Estou em busca de oportunidade relacionadas a Desenvolvimento Web atualmente, estágios ou efetivo Júnior, caso goste de algum projeto meu e queira me indicar para alguma vaga, meu email de contato é [matheus92as@gmail.com](mailto:matheus92as@gmail.com)
