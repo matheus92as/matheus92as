@@ -1,9 +1,13 @@
-### Oi, eu sou o Matheus 👋
+# Olá, eu sou o Matheus 👋  
 
-  Sou desenvolvedor Front-end, experiente com React.js e Next.js, também tenho pratica em criação de APIs utilizando Node.js e Express ou Prisma como base, junto de bancos de dados relacionais como MySQL e PostgreSQL. Venho da área da técnologia, mas a parte física, estudei e trabalhei alguns anos com eletrônica, onde tive meu primeiro contato com programação, usando C++ há mais de 10 anos.
-  Sou muito comunicativo e gosto de entender todas as etapas do projeto, mesmo não sendo minha resposabilidade pois gosto de ajudar os outros sempre que possivel. Meu objetivo é me aperfeiçoar tanto no Front-end quanto no Back para me tornar um desenvolvedor completo, sempre que posso estou praticando alguma nova tecnologia.
-  
-  Estou em busca de oportunidade relacionadas a Desenvolvimento Web atualmente, estágios ou efetivo Júnior, caso goste de algum projeto meu e queira me indicar para alguma vaga, meu email de contato é [matheus92as@gmail.com](mailto:matheus92as@gmail.com)
+Sou **Estagiário em Desenvolvimento de Software**, com experiência prática em aplicações **fullstack** utilizando **C#, React, Node.js, SQL e Docker**.  
+
+Iniciei minha jornada na programação através de um **Bootcamp Fullstack** e hoje curso **Ciência da Computação**. No meu estágio atual, atuo em projetos de automação, desenvolvo **provas de conceito** e dou suporte a sistemas complexos — como um **assistente virtual interno** que integra **APIs, Watson, Zenvia e SQL**, atualmente em evolução para **n8n e IA**.  
+
+Tenho paixão por **aprender continuamente, colaborar em equipe e aplicar tecnologia para resolver problemas reais**.  
+
+📫 Contato: **matheus92as@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/matheus-de-souza/)  
 
 <!--
 **matheus92as/matheus92as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
