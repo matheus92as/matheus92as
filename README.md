@@ -1,10 +1,10 @@
 # Olá, eu sou o Matheus 👋  
 
-Sou **Estagiário em Desenvolvimento de Software**, com experiência prática em aplicações **fullstack** utilizando **C#, React, Node.js, SQL e Docker**.  
+Desenvolvedor de Software Júnior, atuando com desenvolvimento fullstack em C#, React, SQL e automações internas. Hoje trabalho na evolução de um assistente virtual corporativo, implementando integrações com serviços de IA e novas funcionalidades para melhorar eficiência e qualidade dos processos internos.
 
-Iniciei minha jornada na programação através de um **Bootcamp Fullstack** e hoje curso **Ciência da Computação**. No meu estágio atual, atuo em projetos de automação, desenvolvo **provas de conceito** e dou suporte a sistemas complexos — como um **assistente virtual interno** que integra **APIs, Watson, Zenvia e SQL**, atualmente em evolução para **n8n e IA**.  
+Comecei minha trajetória em um bootcamp fullstack e atualmente curso Ciência da Computação. Já atuei com desenvolvimento de PoCs, manutenção de sistemas internos e melhorias técnicas em soluções de grande uso dentro da empresa.
 
-Tenho paixão por **aprender continuamente, colaborar em equipe e aplicar tecnologia para resolver problemas reais**.  
+Tenho interesse em IA aplicada, automação, arquitetura de software e boas práticas de desenvolvimento, sempre buscando aprender e entregar soluções que realmente gerem impacto.  
 
 📫 Contato: **matheus92as@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-de-souza/)  
